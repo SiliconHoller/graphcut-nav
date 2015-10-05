@@ -21,4 +21,4 @@ dstructs: edgequeue.o vstack.o
 	
 
 clean:
-	rm -f *.o *~ *.s
+	rm -f *.o *~ *.s *.i
